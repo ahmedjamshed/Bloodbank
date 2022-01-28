@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const primaryColor = Color(0xff1F2D50);
+const secondaryColor = Color(0xffEE6B73);
+const textColor = Color(0xff626262);
+const sliderColor = Color(0xffF2F2F2);
+const bg_color = Color(0xffEF7278);
+const divider_color = Color(0xffFF8A98);
+const selectedButtonColor = Color(0xffCCCCCC);
+const unSelectedButtonColor = Color(0xffF7F7F7);
+const pageColor = Color(0xffEDEDED);
+const greenColor = Color(0xff03DB03);
+const greyDividerColor = Color(0xffB3B3B3);
+const greyText = Color(0xff666666);
+const notificationDivider = Color(0xffE6E6E6);
+const containerColor = Color(0xffEDEDED);
+const textInputColor = Color(0xff808080);
+const nameTextColor = Color(0xff666666);
+const dividerColor = Color(0xffB3B3B3);
+const descriptionTextColor = Color(0xff999999);
+const appBarTextColor = Colors.white;
